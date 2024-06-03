@@ -1,0 +1,5 @@
+**/__pycache__
+**/.slangpy_cache
+.vscode
+cache
+data/UrbanScene3D
